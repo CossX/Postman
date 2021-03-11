@@ -1,0 +1,2 @@
+ru/netology/domain/PostmanTest.java
+ ru.netology.domain.PostmanTest

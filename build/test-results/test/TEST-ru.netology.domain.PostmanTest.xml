@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.domain.PostmanTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-11T11:54:23" hostname="DESKTOP-KCLH9G5" time="2.281">
+  <properties/>
+  <testcase name="shouldReturnDemoAccounts()" classname="ru.netology.domain.PostmanTest" time="2.281"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
